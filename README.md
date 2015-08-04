@@ -1,10 +1,10 @@
 # hlm-logs
 HLM logs monitoring
 
-##specs
+####specs
 python 2.7 / 3 ??
 
-##setup
+####setup
 install python & pip
 
 install virtualenvwrapper
@@ -24,7 +24,7 @@ Now clone the repo in the directory of your choice
 git clone https://github.com/b10n1k/hlm-logs
 ```
 
-##Workflow
+####Workflow
 
 * create a branch
 * make changes
