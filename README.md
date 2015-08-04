@@ -1,5 +1,5 @@
 # hlm-logs
-HLM logs monitoring
+HLM logs monitoring and reporting
 
 ####specs
 python 2.7 / 3 ??
